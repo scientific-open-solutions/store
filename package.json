@@ -1,0 +1,26 @@
+{
+  "name": "store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^12.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scientific-open-solutions/store.git"
+  },
+  "keywords": [
+    "store"
+  ],
+  "author": "Dr Anthony Haffey from Scientific Open Solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scientific-open-solutions/software/issues"
+  },
+  "homepage": "https://github.com/scientific-open-solutions/software#readme"
+}
